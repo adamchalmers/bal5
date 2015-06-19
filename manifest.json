@@ -4,7 +4,7 @@
     "short_name": "Bal5",
     "description": "Upgrades your Bal4.0 to Bal5.",
     "author": "Adam Chalmers",
-    "version": "1.0",
+    "version": "1.1",
 
     "content_scripts":
     [
