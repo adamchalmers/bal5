@@ -61,6 +61,6 @@ function replaceText(v)
     } else {
         v = v.replace(/\bBalfies\b/g, "Bal3z");
         v = v.replace(/\bbalfies\b/g, "bal3z"); 
-    }
-    return v;*/
+    }*/
+    return v;
 }
